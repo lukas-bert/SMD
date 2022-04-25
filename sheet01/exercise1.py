@@ -59,8 +59,6 @@ plt.plot(y, f(y))
 plt.plot(y, 0*y + 2/3)
 plt.show()
 plt.close()
-#x = np.logspace(0, 5.3, 10000)
-#plt.plot(x, f(x))
 
 #g(x)
 
